@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 public class AppMain {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
 
         Personel obj = new Personel();
       //  obj.ekranaYaz();
